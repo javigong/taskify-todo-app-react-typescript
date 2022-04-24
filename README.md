@@ -1,6 +1,6 @@
 # Taskify, To-do List app
 
-To-do List React app using TypeScript with useState, and useRef.
+To-do List React app using TypeScript with useState, and useRef hooks.
 
 - [Live Site (Netlify)](https://react-ecommerce-shopping-cart-with-context-reducer-hooks.netlify.app/)
 
