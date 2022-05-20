@@ -1,6 +1,6 @@
 # Taskify, To-do List app
 
-To-do List React app using TypeScript with useState, and useRef hooks.
+Taskify is a Todo app using TypeScript and React Hooks such as useState and useRef.
 
 - [Live Site (Netlify)](https://taskify-todo-app-react-typescript.netlify.app/)
 
